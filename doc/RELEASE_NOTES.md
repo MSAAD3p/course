@@ -1,9 +1,5 @@
-## Module <jazzy_backend_theme>
-
-#### 01.01.2025
-
+## Module <code_backend_theme>
+#### 09.10.2024
 #### Version 18.0.1.0.0
-
 ##### ADD
-
-- Initial commit for Jazzy Backend Theme
+Initial commit for Code Backend Theme
